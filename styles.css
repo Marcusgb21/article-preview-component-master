@@ -161,8 +161,10 @@
     justify-content: space-between;
     padding: 2rem;
     height: 100%;
-
+    margin-right: 20px;
   }
+
+  
 
   .author-section {
     padding: 0;
